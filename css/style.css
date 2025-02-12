@@ -3,7 +3,6 @@
     padding: 0;
 }
 
-
 body{
     height: 100vh;
     box-sizing: border-box;
@@ -13,4 +12,9 @@ body{
 
 .titulo_destaque{
     color: #22d4fd;
+}
+
+.apresentacao{
+    display: flex;
+    align-items: center;
 }
